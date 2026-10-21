@@ -1,5 +1,7 @@
 # My First STEM Coloring Book
 
+**[Available on Amazon](https://www.amazon.com/dp/B0HNP4YY3Q)** · [Preview four topics](My-First-STEM-Coloring-Book-Sample.pdf)
+
 A coloring and learning book for ages 5–7 by **Brandon Hui**.
 
 Explore 32 real things from Science, Technology, Engineering, and Math through large coloring pictures and short facts. A grown-up can read along, ask questions, and help children connect each topic to everyday life.
