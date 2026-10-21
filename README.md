@@ -12,13 +12,12 @@ Explore 32 real things from Science, Technology, Engineering, and Math through l
 
 ## Try the sample
 
-The six-page PDF includes a sample introduction, four selected topic pages, and the Science page from the Parent and Teacher Conversation Guide:
+The five-page PDF includes a sample introduction, three selected topic pages, and the Science page from the Parent and Teacher Conversation Guide:
 
 | Subject | Topic | Original book page |
 | --- | --- | --- |
 | Science | Planets | 7 |
 | Technology | Light Bulb | 27 |
-| Engineering | Airplane | 57 |
 | Mathematics | Patterns | 75 |
 | Parent and Teacher Conversation Guide | Science, including the Planets entry | 83 |
 
