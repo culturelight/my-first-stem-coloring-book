@@ -1,6 +1,6 @@
 # My First STEM Coloring Book
 
-[Preview four topics](My-First-STEM-Coloring-Book-Sample.pdf) · [Available on Amazon](https://www.amazon.com/dp/B0HNP4YY3Q)
+[Preview topics and conversation guide](My-First-STEM-Coloring-Book-Sample.pdf) · [Available on Amazon](https://www.amazon.com/dp/B0HNP4YY3Q)
 
 A coloring and learning book for ages 5–7 by **Brandon Hui**.
 
@@ -8,12 +8,11 @@ Explore 32 real things from Science, Technology, Engineering, and Math through l
 
 **32 Real Things That Rocket, Glow, Fly & Connect for Ages 5–7**
 
-
 <img src="cover-preview.jpg" alt="My First STEM Coloring Book front cover" width="420">
 
 ## Try the sample
 
-The five-page PDF includes a sample introduction and four selected topic pages:
+The six-page PDF includes a sample introduction, four selected topic pages, and the Science page from the Parent and Teacher Conversation Guide:
 
 | Subject | Topic | Original book page |
 | --- | --- | --- |
@@ -21,6 +20,7 @@ The five-page PDF includes a sample introduction and four selected topic pages:
 | Technology | Light Bulb | 27 |
 | Engineering | Airplane | 57 |
 | Mathematics | Patterns | 75 |
+| Parent and Teacher Conversation Guide | Science, including the Planets entry | 83 |
 
 Original page numbers are retained. For single-sided coloring, print each topic on a separate sheet. This is a preview, not the complete book.
 
