@@ -1,6 +1,6 @@
 # My First STEM Coloring Book
 
-**[Available on Amazon](https://www.amazon.com/dp/B0HNP4YY3Q)** · [Preview four topics](My-First-STEM-Coloring-Book-Sample.pdf)
+[Preview four topics](My-First-STEM-Coloring-Book-Sample.pdf) · [Available on Amazon](https://www.amazon.com/dp/B0HNP4YY3Q)
 
 A coloring and learning book for ages 5–7 by **Brandon Hui**.
 
@@ -8,7 +8,6 @@ Explore 32 real things from Science, Technology, Engineering, and Math through l
 
 **32 Real Things That Rocket, Glow, Fly & Connect for Ages 5–7**
 
-[Preview four topics](My-First-STEM-Coloring-Book-Sample.pdf)
 
 <img src="cover-preview.jpg" alt="My First STEM Coloring Book front cover" width="420">
 
@@ -33,11 +32,17 @@ Original page numbers are retained. For single-sided coloring, print each topic 
 - A parent and teacher conversation guide with two questions for every topic.
 - 86 US Letter pages, including blank backs for the main coloring and activity pages.
 
-## About this project
+## Author direction and AI-assisted production
 
-I created this book to bring practical STEM ideas into a coloring and reading activity for young children. The project combines topic selection, short educational explanations, page layout, and artwork review.
+I developed the book concept, educational framing, and artwork concepts. I reviewed the material, made editorial changes, directed revisions, and retained final creative and editorial control.
 
-Illustrations were created with AI tools and edited by the author. This repository shares the cover and selected interior pages; editable manuscripts and production files are not included.
+ChatGPT Work supported a semi-automated creation and editing workflow. A production tracker recorded page status, revisions, review findings, and outstanding checks.
+
+Illustrations were generated with AI tools and reviewed under my direction for educational clarity and suitability for coloring.
+
+This project builds on *60 Cities x 60 Adventures*, using a refined production workflow for creation, editing, and review.
+
+This repository shares the cover and selected interior pages. The full manuscript, editable production files, and internal tracker are not included.
 
 ## About the author
 
@@ -47,4 +52,4 @@ Brandon Hui creates AI tools, prompt specifications, and children's books, with 
 
 ## Copyright and sample use
 
-Text, concept and layout copyright © 2026 Brandon Hui. All rights reserved. This is a book preview repository; no open-source license is granted. Please share the repository link rather than redistributing the files. See [COPYRIGHT.md](COPYRIGHT.md).
+Text, concept and layout copyright © 2026 Brandon Hui. All rights reserved. You may read, download, and print the sample for personal, noncommercial use at home or in a classroom. This permission does not grant an open-source license or permission to resell, republish, or reuse the material in other products. Please share the repository link rather than redistributing the files. See [COPYRIGHT.md](COPYRIGHT.md).
